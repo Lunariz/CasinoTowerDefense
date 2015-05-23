@@ -19,6 +19,7 @@ We all worked an equal amount on programming, design and art.
 The Implementation
 We decided to create the game in Visual Studio with XNA, because that was where all our teammembers had the most experience.
 Because of the timelimit, we spent little time on design before starting (approximately 1 hour). We held multiple small meetings to discuss further ideas and design.
+Because of the theme (Gameception), we added a unique mechanic where the placement of towers is decided through minigames: a slot machine and a claw machine
 We used an in-house version of SVN to manage version control.
 
 The Outcome
