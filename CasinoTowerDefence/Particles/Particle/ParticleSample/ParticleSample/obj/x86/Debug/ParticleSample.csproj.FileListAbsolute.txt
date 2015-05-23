@@ -1,8 +1,0 @@
-C:\Users\Lukas\Documents\CasinoTowerDefence\CasinoTowerDefence\CasinoTowerDefence\Particles\Particle\ParticleSample\ParticleSample\bin\x86\Debug\ParticleSample.dll
-C:\Users\Lukas\Documents\CasinoTowerDefence\CasinoTowerDefence\CasinoTowerDefence\Particles\Particle\ParticleSample\ParticleSample\bin\x86\Debug\ParticleSample.pdb
-C:\Users\Lukas\Documents\CasinoTowerDefence\CasinoTowerDefence\CasinoTowerDefence\Particles\Particle\ParticleSample\ParticleSample\bin\x86\Debug\GameManagement.dll
-C:\Users\Lukas\Documents\CasinoTowerDefence\CasinoTowerDefence\CasinoTowerDefence\Particles\Particle\ParticleSample\ParticleSample\bin\x86\Debug\GameManagement.pdb
-C:\Users\Lukas\Documents\CasinoTowerDefence\CasinoTowerDefence\CasinoTowerDefence\Particles\Particle\ParticleSample\ParticleSample\obj\x86\Debug\ParticleSample.csprojResolveAssemblyReference.cache
-C:\Users\Lukas\Documents\CasinoTowerDefence\CasinoTowerDefence\CasinoTowerDefence\Particles\Particle\ParticleSample\ParticleSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Lukas\Documents\CasinoTowerDefence\CasinoTowerDefence\CasinoTowerDefence\Particles\Particle\ParticleSample\ParticleSample\obj\x86\Debug\ParticleSample.dll
-C:\Users\Lukas\Documents\CasinoTowerDefence\CasinoTowerDefence\CasinoTowerDefence\Particles\Particle\ParticleSample\ParticleSample\obj\x86\Debug\ParticleSample.pdb

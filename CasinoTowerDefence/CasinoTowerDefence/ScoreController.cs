@@ -18,7 +18,7 @@ namespace CasinoTowerDefence
         public ScoreController(PlayingState parent, int layer = 1005, string id = "")
             : base(layer, id)
         {
-            multiplier = 2000;
+            multiplier = 1;
             multiplierTimer = 0;
 
             score = 0;
