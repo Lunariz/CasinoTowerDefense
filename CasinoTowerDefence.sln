@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasinoTowerDefence", "CasinoTowerDefence\CasinoTowerDefence\CasinoTowerDefence.csproj", "{B2C72D12-E155-4BD1-B104-68D0291AC3F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameManagement", "CasinoTowerDefence\GameManagement\GameManagement.csproj", "{6CEB5F37-0BFA-4A0D-8DB7-B25ECD81CAAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasinoTowerDefenceContent", "CasinoTowerDefence\CasinoTowerDefenceContent\CasinoTowerDefenceContent.contentproj", "{400F7720-AA51-4454-A4EF-084EAF25E78D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParticleSample", "CasinoTowerDefence\Particles\Particle\ParticleSample\ParticleSample\ParticleSample.csproj", "{EACDC85D-E4B4-48D3-9BBB-50E96BDC436C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2C72D12-E155-4BD1-B104-68D0291AC3F2}.Debug|x86.ActiveCfg = Debug|x86
+		{B2C72D12-E155-4BD1-B104-68D0291AC3F2}.Debug|x86.Build.0 = Debug|x86
+		{B2C72D12-E155-4BD1-B104-68D0291AC3F2}.Release|x86.ActiveCfg = Release|x86
+		{B2C72D12-E155-4BD1-B104-68D0291AC3F2}.Release|x86.Build.0 = Release|x86
+		{6CEB5F37-0BFA-4A0D-8DB7-B25ECD81CAAE}.Debug|x86.ActiveCfg = Debug|x86
+		{6CEB5F37-0BFA-4A0D-8DB7-B25ECD81CAAE}.Debug|x86.Build.0 = Debug|x86
+		{6CEB5F37-0BFA-4A0D-8DB7-B25ECD81CAAE}.Release|x86.ActiveCfg = Release|x86
+		{6CEB5F37-0BFA-4A0D-8DB7-B25ECD81CAAE}.Release|x86.Build.0 = Release|x86
+		{400F7720-AA51-4454-A4EF-084EAF25E78D}.Debug|x86.ActiveCfg = Debug|x86
+		{400F7720-AA51-4454-A4EF-084EAF25E78D}.Release|x86.ActiveCfg = Release|x86
+		{EACDC85D-E4B4-48D3-9BBB-50E96BDC436C}.Debug|x86.ActiveCfg = Debug|x86
+		{EACDC85D-E4B4-48D3-9BBB-50E96BDC436C}.Debug|x86.Build.0 = Debug|x86
+		{EACDC85D-E4B4-48D3-9BBB-50E96BDC436C}.Release|x86.ActiveCfg = Release|x86
+		{EACDC85D-E4B4-48D3-9BBB-50E96BDC436C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
