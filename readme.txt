@@ -1,5 +1,6 @@
 Casino Tower Defense
 
+Warning: This project severely lacks comments. For good commenting style, check out Chaka Panda (https://github.com/Lunariz/ChakaPanda)
 Looking for an executable? Download the game here: https://www.dropbox.com/s/oe9tq40d5p4l0d0/CasinoTowerDefense.rar?dl=1
 
 The Goal
@@ -25,7 +26,7 @@ We used an in-house version of SVN to manage version control.
 The Outcome
 While we are proud of what we managed to create, the outcome obviously was not all we wanted it to be due to the timelimit, but we are still proud of what we managed to create.
 In the future, if we would like to continue this project, we would most likely start with the most prevalent issues:
-- Lack of documentation
+- Lack of comments
 - Gamebreaking bugs
 - Lack of feedback loops (a game design problem)
 - Art quality
