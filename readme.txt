@@ -4,8 +4,8 @@ Warning: This project severely lacks comments. For good commenting style, check 
 Looking for an executable? Download the game here: http://bit.ly/1SwTfkD
 
 The Goal
-Casino Tower Defense was created during a 48 hour GameJam organized by DGDARC at the University of Utrecht.
-The theme of the GameJam was 'Gameception'
+Casino Tower Defense was created during a 24 hour GameJam organized by DGDARC at the University of Utrecht.
+The theme of the GameJam was 'Gameception'.
 Because we only had 48 hours, the outcome obviously is not all we wanted it to be, but we are still proud of what we managed to create.
 
 The Team
