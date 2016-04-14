@@ -1,7 +1,7 @@
 Casino Tower Defense
 
 Warning: This project severely lacks comments. For good commenting style, check out Chaka Panda (https://github.com/Lunariz/ChakaPanda)
-Looking for an executable? Download the game here: http://bit.ly/1SwTfkD
+Looking for an executable? Download the game here: http://tinyurl.com/CasinoTowerDefense
 
 The Goal
 Casino Tower Defense was created during a 24 hour gamejam organized by DGDARC at the University of Utrecht.
